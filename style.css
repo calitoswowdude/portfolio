@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(13, 13, 136);
+}
+
+h1 {
+    text-align: center;
+    font-size: 80px;
+    color: beige;
+    font-family: 'Times New Roman';
+}
+
+.images{
+    margin: auto;
+    text-align: center;
+}
+
+.details, table {
+    margin: auto;
+    text-align: center;
+    color: aliceblue;
+}
